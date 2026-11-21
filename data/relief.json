@@ -1,0 +1,22 @@
+[
+  {
+    "id": "relief-1",
+    "channel": "phone",
+    "text": "王女士说母亲暂住河东安置点，需要降压药，药名稍后确认。"
+  },
+  {
+    "id": "relief-2",
+    "channel": "volunteer",
+    "text": "志愿者转述：王女士一家在河东点，老人缺药，尚未核对药盒。"
+  },
+  {
+    "id": "relief-3",
+    "channel": "paper",
+    "text": "同一联系人补充床位为 H-18，之前登记写成 H-81。"
+  },
+  {
+    "id": "relief-4",
+    "channel": "dispatch",
+    "text": "饮水已送达；药品需求等待医护人员核实。"
+  }
+]
